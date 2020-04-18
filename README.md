@@ -1,2 +1,15 @@
-# Java-Chess
-Chess
+# Java Chess
+
+This project is made with Java on the Intelij enviroment.It is currently a work in progress,need to solve a few bugs and it should be completely done.It is a PvP chess engine with gui attached to it.
+
+# What I Learned 
+
+•	Working with abstract classes and enums ,making a logical tree structure for the project
+
+•	Implementing design patterns such as Factory, Builder and Singleton
+
+•	Working with Swing and making a working GUI.
+
+•	Making and understanding the structure of a game engine and its components
+
+
